@@ -1,32 +1,8 @@
-Výsledková listina
-==================
+Výsledky
+========
 
 |-------------- 
-| .{text-align: left} Jméno			| b_1 | b_2 |  b_3 |  b_4 | b_T | .{text-align: center} vážená suma
-|--------------
-|* Ondřej Poláček (s.1, r.3) 		| 5,0 | 5,0 | 11,0 | 11,0 | 6,0<sup>(8,8)</sup> | 38,98
-|* Martin Scheubrein (s.1, r.3)	| 5,0 |  -  | 12,0 |  7,0 | 3,9 | 29,93
-|* Petr Doležal (s.1, r.4)			| 4,5 | 5,0 | 10,5 |  2,5 | 6,0<sup>(6,8)</sup>  | 29,54
-|* Šimon Jelínek (s.1, r.3)			| 2,0 |  -  | 12,0 |  7,0 | 6,0 | 28,99
-|* Jiří Růžička (s.1, r.3)			| 0,5 | 5,0 | 11,5 |  5,5 |  -  | 24,59
-|* Vojtěch Laitl (s.1, r.0)			| 1,0 |  -  |  5,0 |  3,5 | 3,4 | 21,61
-|* Jiří Jičínský (s.1, r.2)			| 3,0 |  -  | 11,5 |   -  | 1,8 | 18,61
-|* Marie Zlínská (s.1, r.3)			|  -  |  -  | 11,5 |  4,5 |  -  | 17,73
-|* Kateřina Smítalová (s.1, r.4)| 2,5 | 0,5 |  9,0 |   -  |  -  | 13,00
-|* Jan Petr (s.1, r.2)					| 0,0 | 3,0 |  1,0 |   -  |  -  |  6,13
-|* Ondřej Daneš (s.1, r.2)			| 0,5 | 4,0 |   -  |   -  |  -  |  5,64
-|* Jakub Salavec (s.1, r.3)			| 5,0 |  -  |   -  |   -  |  -  |  5,00
-|* Ondřej Brunner (s.1, r.2)		|  -  | 2,0 |   -  |   -  |  -  |  2,95
-
-
-s. – počet řešených sérií, r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník), b_i – body za jednotlivé úlohy (pomlčka znamená neřešil), vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele
-
-
-Výsledková listina
-==================
-
-|-------------- 
-| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b_T | .{text-align: center} vážená suma
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b_T | .{text-align: center; font-weight: bold} vážená suma
 |--------------
 |* Ondřej Poláček   	|  3 |  1 | 5,0 | 5,0 | 11,0 | 11,0 | 6,0<sup>(8,8)</sup> | 38,98
 |* Martin Scheubrein 	|  3 |  1 | 5,0 |  -  | 12,0 |  7,0 | 3,9 | 29,93
@@ -43,4 +19,8 @@ Výsledková listina
 |* Ondřej Brunner  		|  2 |  1 |  -  | 2,0 |   -  |   -  |  -  |  2,95
 
 
-r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník), s. – počet řešených sérií, b_i – body za jednotlivé úlohy (pomlčka znamená neřešil), vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele
+Vysvětlivky:
+ - r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník),
+ - s. – počet řešených sérií,
+ - b_i – body za jednotlivé úlohy (pomlčka znamená neřešil),
+ - vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele.

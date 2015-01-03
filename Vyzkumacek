@@ -24,7 +24,7 @@ Seznam témat
 |  4 | Grál 															| KM 			| Dan 	| gromadan# fjfi.cvut.cz 	| 
 |  5 | Počítačová tomografie 							| KM/KSI 	| Peter | svihrpet# fjfi.cvut.cz 	| 
 |  6 | Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární med | KDAIZ | Terka | kracmter# fjfi.cvut.cz | 
-|  7 | Spektroskopie 											| KDAIZ 	| Terka | kracmter# fjfi.cvut.cz 	| 
+|  7 | Spektrometrie 											| KDAIZ 	| Terka | kracmter# fjfi.cvut.cz 	| 
 |  8 | Konstrukce čísel a Hilbertův hotel | KM 			| Honza | vabekjan# fjfi.cvut.cz	| 
 |  9 | Teploměr 													| KF 			| Honza | vabekjan# fjfi.cvut.cz 	| 
 | 10 | Mlžná komora 											| Exper. fyz. | Alča | alca.har# seznam.cz 	| 
@@ -53,7 +53,7 @@ Anotace témat
 6) Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární med:
 	- Pro několik různých radionuklidů naměříme dávkový příkon v různých vzdálenostech za pomoci dvou různých detektorů. Z těchto hodnot následně vypočítáme gamma konstantu a porovnáme s tabulkovými gamma konstantami. Téma se bude zabývat statistikou, kvalitou přístrojů apod. Přístroje jsou používány v nukleární medicíně pro kontrolu pacientů po aplikaci iodu v radioterapii. V případě času a zájmu možné pokračování ve výpočtu aplikované dávky pacientovi.
 
-7) Spektroskopie:
+7) Spektrometrie:
 	- Spektrometr je hojně používaný přístroj v nukleární medicíně na měření in-vivo vzorků (krev, moč, stolice). Pro správnou funkčnost přístroje se provádějí kontroly kvality, tzv. QC testy. V těchto testech bychom měřili FWHM, prováděli energetickou kalibraci, linearitu na odezvu atd. Cílem tohoto výzkumáčku by bylo napsání programu (Excel, Matlab, atd.) pro výpočet těchto hodnot z naměřených dat a následné porovnání s vestavěným programem spektrometru. Program by nadále mohl být využíván v praxi.
 
 8) Konstrukce čísel a Hilbertův hotel:
@@ -81,22 +81,6 @@ Anotace témat
 
 11) Lžička v hrnku čaje:
 	- abstrakt: Každého jistě někdy potkalo, že potřeboval rychle vypít čaj, který byl moc horký. Cílem tohoto úkolu bude (v rámci možností) teoreticky předpovědět anebo alespoň diskutovat rozdíl v rychlosti chladnutí horkého nápoje (vody) v hrnku v závislosti na parametru: {v hrnku je lžička/ v hrnku není lžička}. Zisk experimentálních dat zaměříme jak na modelové situace (termohrnek, lžička=plech z různých materiálů, hrnek zcela plný/poloprázdný…) a poté zkusíme naše měření porovnat s měřením na reálném hrnku (skleněný, keramický..) a diskutovat rozdíly a možné vlivy měření.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
