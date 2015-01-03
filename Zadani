@@ -2,11 +2,24 @@ Zadání
 ======
 .{width: 100%}
 |----------------
+| .{text-align: center} Série | Letáky | Zadání | Deadline | Řešení 
+|----------------
+|* 1. | "leták se zadáním":[http://svat.fjfi.cvut.cz/files/1_1_zadl.pdf], <br> "letak s řešením":[http://svat.fjfi.cvut.cz/files/1_1_resl.pdf] | "zadání úloh":[http://svat.fjfi.cvut.cz/files/1_1_zad.pdf], <br> "zadání tutoriálu":[http://svat.fjfi.cvut.cz/files/excel.pdf], <br> "data k tutoriálu":[http://svat.fjfi.cvut.cz/files/svatexcel.zip] | 24.11.2014 21:59 | "řešení úloh":[http://svat.fjfi.cvut.cz/files/1_1_res.pdf], <br> "řešení tutoriálu":[http://svat.fjfi.cvut.cz/files/1_1_tut_res.zip]
+|* 2. | "leták se zadáním":[http://svat.fjfi.cvut.cz/files/1_2_zadl.pdf] | "zadání úloh":[http://svat.fjfi.cvut.cz/files/1_2_zad.pdf], <br> "zadání tutoriálu":[http://svat.fjfi.cvut.cz/files/word.pdf], <br> "data k tutoriálu":[http://svat.fjfi.cvut.cz/files/1_2_data.rar] | 2.2.2015 21:59 |
+|* 3. | bude uveřejněno na "Dni otevřených dveří FJFI 27. ledna":[http://www.fjfi.cvut.cz/DesktopDefault.aspx?ModuleId=1494] |||
+
+
+
+
+/---html
+<!--
+.{width: 100%}
+|----------------
 | .{text-align: center} Série | Zadání | Deadline | Řešení 
 |----------------
 |* 1. | "zadání úloh":[http://svat.fjfi.cvut.cz/files/SVAT_1_1.pdf] <br> "zadání tutoriálu":[http://svat.fjfi.cvut.cz/files/SVAT_zpracovani_dat_2.pdf] <br> "data k tutoriálu":[http://svat.fjfi.cvut.cz/files/svatexcel.zip] | 24.11.2014 21:59 | "řešení úloh":[http://svat.fjfi.cvut.cz/files/1_1_res.pdf] <br> "řešení tutoriálu":[http://svat.fjfi.cvut.cz/files/1_1_tut_res.zip]
 |* 2. | "zadání úloh":[http://svat.fjfi.cvut.cz/files/1_2.pdf] <br> "zadání tutoriálu":[http://svat.fjfi.cvut.cz/files/SVAT_zpracovani_dat_word.pdf] <br> "data k tutoriálu":[http://svat.fjfi.cvut.cz/files/1_2_data.rar] | 2.2.2015 21:59 |
 |* 3. | bude uveřejněno na "Dni otevřených dveří FJFI 27. ledna":[http://www.fjfi.cvut.cz/DesktopDefault.aspx?ModuleId=1494] |||
 
-
-
+-->
+\---
