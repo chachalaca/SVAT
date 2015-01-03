@@ -63,7 +63,7 @@ Anotace témat
 		* http://cs.wikipedia.org/wiki/Mohutnost#P.C5.99.C3.ADklady_motivuj.C3.ADc.C3.AD_pojem_mohutnosti_a_jeho_vlastnosti
 		* Pelantová, E., Vondráčková, J., Matematická analýza 1, VŠ skriptum, Vydavatelství ČVUT 2004 (úvodní kapitola)
 		* http://cs.wikipedia.org/wiki/Iracion%C3%A1ln%C3%AD_%C4%8D%C3%ADslo
-		* http://www.math.muni.cz/~simsa/reals.pdf (pouze úvod)"
+		* http://www.math.muni.cz/~simsa/reals.pdf (pouze úvod)
 
 9) Teploměr:
 	- abstrakt: Pojmy jako teplo a teplota provází lidstvo od počátků. Navzdory tomu, že se jedná o tak samozřejmou věc, byl korektní popis těchto pojmů proveden poměrně pozdě. Nicméně empirické měření teploty bylo prováděno i dříve. V tomto projektu se trošku vrátíme do těchto starých časů a pokusíme se zkonstruovat funkční plynový teploměr.
@@ -75,7 +75,9 @@ Anotace témat
 10) Mlžná komora:
 	- abstrakt: Existuje mnoho způsobů detekce nabitých částic. Málo z nich však vypadá na pohled tak pěkně jako mlžná komora. Další její výhodou je ta, že si ji může téměř každý postavit u sebe doma. A tento úkol čeká právě na vás!
 	- úkoly: Seznamte se s principem funkce difuzní mlžné komory na bázi izopropylalkoholu. K tomu vám poslouží např. doporučené zdroje, nebojte se však hledat i jinde na internetu. Jak taková komora funguje? Jak je možné si ji sestavit? Popřemýšlejte nad tím a dejte se do díla. Po sestavení zjistíte, zda vaše komora funguje. Pokud nefungujte, pokuste se přijít na to, proč. Případně můžete sestavit lepší model (ale není to nutné). Pokud skutečně vidíte dráhy nabitých částic, pokuste se je zachytit foťákem. Na tento bod úkolu myslete při sestavování komory.
-	- zdroje: http://kmlinux.fjfi.cvut.cz/~loffevik/komora/, https://www.youtube.com/watch?v=pewTySxfTQk
+	- zdroje:
+		* http://kmlinux.fjfi.cvut.cz/~loffevik/komora/
+		* https://www.youtube.com/watch?v=pewTySxfTQk
 
 11) Lžička v hrnku čaje:
 	- abstrakt: Každého jistě někdy potkalo, že potřeboval rychle vypít čaj, který byl moc horký. Cílem tohoto úkolu bude (v rámci možností) teoreticky předpovědět anebo alespoň diskutovat rozdíl v rychlosti chladnutí horkého nápoje (vody) v hrnku v závislosti na parametru: {v hrnku je lžička/ v hrnku není lžička}. Zisk experimentálních dat zaměříme jak na modelové situace (termohrnek, lžička=plech z různých materiálů, hrnek zcela plný/poloprázdný…) a poté zkusíme naše měření porovnat s měřením na reálném hrnku (skleněný, keramický..) a diskutovat rozdíly a možné vlivy měření.
