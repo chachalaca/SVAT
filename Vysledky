@@ -1,6 +1,57 @@
 Výsledky
 ========
 
+Celkové výsledky
+----------------
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | s_1 | s_2 |  s_3 |  s_4 | {text-align: center; font-weight: bold} celková suma
+|--------------
+|* Ondřej Poláček 		| 3 | 2 | 38,98 | 34,21 |  |  | 73,19
+|* Šimon Jelínek 			| 3 | 2 | 28,99 | 35,50 |  |  | 64,49
+|* Martin Scheubrein 	| 3 | 2 | 29,93 | 28,69 |  |  | 58,62
+|* Jiří Růžička 			| 3 | 2 | 24,59 | 21,19 |  |  | 45,78
+|* Vojtěch Laitl 			| 0 | 2 | 21,61 | 20,58 |  |  | 42,19
+|* Jiří Jičínský 			| 2 | 2 | 18,61 | 18,21 |  |  | 36,82
+|* Petr Doležal 			| 4 | 1 | 29,54 |  0    |  |  | 29,54
+|* Jakub Salavec 			| 3 | 2 |  5,00 | 19,36 |  |  | 24,36
+|* Jan Petr 					| 2 | 2 |  6,13 | 13,77 |  |  | 19,91
+|* Marie Zlínská 			| 3 | 1 | 17,73 |  0    |  |  | 17,73
+|* Dominika Jochcová 	| 4 | 2 |  5,90 | 11,45 |  |  | 17,35
+|* Kateřina Smítalová | 4 | 1 | 13,00 |  0    |  |  | 13,00
+|* Dominik Krasula 		| 2 | 1 |  0    |  8,21 |  |  |  8,21
+|* Ondřej Daneš 			| 2 | 1 |  5,64 |  0    |  |  |  5,64
+|* Ondřej Brunner 		| 2 | 1 |  2,95 |  0    |  |  |  2,95
+
+
+Výsledky 2. série
+----------------
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
+|--------------
+|* Ondřej Poláček			| 3 | 2 | 4 | 3,5 | 8,3 	| 10 		| 6,0<sup>(7,0)</sup> | 34,21
+|* Šimon Jelínek			| 3 | 2 | 5 | 5,0	| 10,5 	| 9,0		| 4,0 | 35,50
+|* Martin Scheubrein	| 3 | 2 | 5 | 5,0	| 7,3 	| 9,5 	| - 	| 28,69
+|* Jiří Růžička				| 3 | 2 | 5 | 0,5 | 3,3 	| 10,5 	| - 	| 21,19
+|* Vojtěch Laitl			| 0 | 2 | 1 | 1,0	| 1,5 	| 7,0		| 2,0 | 20,58
+|* Jiří Jičínský			| 2 | 2 | 2 | - 	| - 		| 10,5 	| 3,1 | 18,21
+|* Jakub Salavec			| 3 | 2 | 5 | - 	| 5,0		| 7,0		| - 	| 19,36
+|* Jan Petr						| 2 | 2 | 5 | - 	| - 		| 5,0		| 1,0 | 13,77
+|* Dominika Jochcová	| 4 | 2 | - | 1,5 | 7,0		| 2,0		| - 	| 11,45
+|* Dominik Krasula		| 2 | 1 | - | - 	| - 		| 6,0		| - 	|  8,21
+
+
+
+Vysvětlivky:
+ - r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník),
+ - s. – počet řešených sérií,
+ - b_i – body za jednotlivé úlohy (pomlčka znamená neřešil),
+ - vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele.
+ 
+ 
+/---html
+<!--
 |-------------- 
 | .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
 |--------------
@@ -17,10 +68,5 @@ Výsledky
 |* Ondřej Daneš  			|  2 |  1 | 0,5 | 4,0 |   -  |   -  |  -  |  5,64
 |* Jakub Salavec  		|  3 |  1 | 5,0 |  -  |   -  |   -  |  -  |  5,00
 |* Ondřej Brunner  		|  2 |  1 |  -  | 2,0 |   -  |   -  |  -  |  2,95
-
-
-Vysvětlivky:
- - r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník),
- - s. – počet řešených sérií,
- - b_i – body za jednotlivé úlohy (pomlčka znamená neřešil),
- - vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele.
+-->
+\---
