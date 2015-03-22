@@ -5,7 +5,7 @@ Celkové výsledky
 ----------------
 
 |-------------- 
-| .{text-align: left} Jméno| r. | s. | s_1 | s_2 |  s_3 |  s_4 | {text-align: center; font-weight: bold} celková suma
+| .{text-align: left} Jméno| r. | s. | s_1 | s_2 |  s_3 |  s_4 | .{text-align: center; font-weight: bold} celková suma
 |--------------
 |* Ondřej Poláček 		| 3 | 2 | 38,98 | 34,21 |  |  | 73,19
 |* Šimon Jelínek 			| 3 | 2 | 28,99 | 35,50 |  |  | 64,49
@@ -46,6 +46,7 @@ Výsledky 2. série
 Vysvětlivky:
  - r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník),
  - s. – počet řešených sérií,
+ - s_i - body za jednotlivé série
  - b_i – body za jednotlivé úlohy (pomlčka znamená neřešil),
  - vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele.
  
