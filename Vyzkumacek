@@ -23,7 +23,7 @@ Seznam témat
 |  3 | Fraktály 													| KM 			| Dan		| gromadan# fjfi.cvut.cz 	| 
 |  4 | Grál 															| KM 			| Dan 	| gromadan# fjfi.cvut.cz 	| 
 |  5 | Počítačová tomografie 							| KM/KSI 	| Peter | svihrpet# fjfi.cvut.cz 	| 
-|  6 | Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární med | KDAIZ | Terka | kracmter# fjfi.cvut.cz | 
+|  6 | Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární medicíně | KDAIZ | Terka | kracmter# fjfi.cvut.cz | 
 |  7 | Spektrometrie 											| KDAIZ 	| Terka | kracmter# fjfi.cvut.cz 	| 
 |  8 | Konstrukce čísel a Hilbertův hotel | KM 			| Honza | vabekjan# fjfi.cvut.cz	| 
 |  9 | Teploměr 													| KF 			| Honza | vabekjan# fjfi.cvut.cz 	| 
@@ -42,22 +42,22 @@ Anotace témat
 	- Cílem úlohy je zkouma závislost cen v restauracích na jejich nadmořské výšce. Je tedy potřeba stanovit typové potraviny, které se dají sehnat všude, poté získat data - nejspíše jídelníčky na internetu. Z nich určit korelaci cen a damořské výšky pro jednotlivé potraviny. Případně se pokusit udělat korekce na další vlivy (konkrétní památky v okolí a podobně).
 
 3) Fraktály:
-	- Vyberte si nějaký oblíbený fraktál a naprogramujte jeho vykreslení v počítači. Popište odvození některých jeho obecných vlastností (záleží na konkrétním výběru). Pokuste se algoritmus zajímavým způsobem modifikovat popřípadě fraktál zajímavě obarvit. (inspirace: "http://www.root.cz/serialy/fraktaly-v-pocitacove-grafice/ .{target:_blank}":[http://www.root.cz/serialy/fraktaly-v-pocitacove-grafice/])
+	- Vyberte si nějaký oblíbený fraktál a naprogramujte jeho vykreslení v počítači. Popište odvození některých jeho obecných vlastností (záleží na konkrétním výběru). Pokuste se algoritmus zajímavým způsobem modifikovat, popřípadě fraktál zajímavě obarvit. (inspirace: "http://www.root.cz/serialy/fraktaly-v-pocitacove-grafice/ .{target:_blank}":[http://www.root.cz/serialy/fraktaly-v-pocitacove-grafice/])
 
 4) Grál:
 	- Určitý integrál je vlastně něco jako nekonečný součet. Dalo by se definovat něco podobného, co by představovalo nekonečný součin? Dala by se definovat nějaká analogie derivace a primitivní funkce tak, aby se tento objekt dal počítat Newtonovou formulí? Zkuste odhalit základní nástroje pro výpočet a aplikujte je na jednoduché funkce.
 
 5) Počítačová tomografie:
-	- Cieľom úlohy je vytvoriť program, ktorý z röntgenových snímkov spätne zrekonštruuje obraz. Program by mal zvládnuť skonštruovť 2D obrázok z nameraných skenov (napr. "zde .{target:_blank}":[http://www.emouseatlas.org/emap/about/collaborations/OPT/images/OPT_Theory2.gif]). Úlohu je možné rozšíriť na vytvorenie 3D obrázku z reálnych dát.
+	- Cieľom úlohy je vytvoriť program, ktorý z röntgenových snímkov spätne zrekonštruuje obraz. Program by mal zvládnuť skonštruovať 2D obrázok z nameraných skenov (napr. "zde .{target:_blank}":[http://www.emouseatlas.org/emap/about/collaborations/OPT/images/OPT_Theory2.gif]). Úlohu je možné rozšíriť na vytvorenie 3D obrázku z reálnych dát.
 
-6) Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární med:
-	- Pro několik různých radionuklidů naměříme dávkový příkon v různých vzdálenostech za pomoci dvou různých detektorů. Z těchto hodnot následně vypočítáme gamma konstantu a porovnáme s tabulkovými gamma konstantami. Téma se bude zabývat statistikou, kvalitou přístrojů apod. Přístroje jsou používány v nukleární medicíně pro kontrolu pacientů po aplikaci iodu v radioterapii. V případě času a zájmu možné pokračování ve výpočtu aplikované dávky pacientovi.
+6) Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární medicíně:
+	- Pro několik různých radionuklidů naměříme dávkový příkon v různých vzdálenostech za pomoci dvou různých detektorů. Z těchto hodnot následně vypočítáme gamma konstantu a porovnáme s tabulkovými gamma konstantami. Téma se bude zabývat statistikou, kvalitou přístrojů apod. Přístroje jsou používány v nukleární medicíně pro kontrolu pacientů po aplikaci jodu v radioterapii. V případě dostatku času a zájmu je možné pokračování ve výpočtu dávky aplikované pacientovi.
 
 7) Spektrometrie:
 	- Spektrometr je hojně používaný přístroj v nukleární medicíně na měření in-vivo vzorků (krev, moč, stolice). Pro správnou funkčnost přístroje se provádějí kontroly kvality, tzv. QC testy. V těchto testech bychom měřili FWHM, prováděli energetickou kalibraci, linearitu na odezvu atd. Cílem tohoto výzkumáčku by bylo napsání programu (Excel, Matlab, atd.) pro výpočet těchto hodnot z naměřených dat a následné porovnání s vestavěným programem spektrometru. Program by nadále mohl být využíván v praxi.
 
 8) Konstrukce čísel a Hilbertův hotel:
-	- abstrakt: Cesta k číslům jak je chápeme dnes nebyla vůbec jednoduchá. Ještě těžší bylo uchopit pojmy nekonečna a s ním související vlastnosti množin.
+	- abstrakt: Cesta k číslům, jak je chápeme dnes, nebyla vůbec jednoduchá. Ještě těžší bylo uchopit pojmy nekonečna a s ním související vlastnosti množin.
 	- úkoly: Dle vlastních schopností se seznámit s pojmy racionální čísla, reálná čísla, komplexní čísla, algebraická čísla a jejich konstrukce (populární formou). Dále s pojmem mohutnost množiny a tento pojem ilustrovat na problému Hilbertova hotelu. Výsledky přednést populární formou ostatním účastníkům.
 	- literatura:
 		* "http://cs.wikipedia.org/wiki/Mohutnost#P.C5.99.C3.ADklady_motivuj.C3.ADc.C3.AD_pojem_mohutnosti_a_jeho_vlastnosti .{target:_blank}":[http://cs.wikipedia.org/wiki/Mohutnost#P.C5.99.C3.ADklady_motivuj.C3.ADc.C3.AD_pojem_mohutnosti_a_jeho_vlastnosti]
@@ -73,14 +73,14 @@ Anotace témat
 		* "http://cs.wikipedia.org/wiki/Teplota .{target:_blank}":[http://cs.wikipedia.org/wiki/Teplota]
 
 10) Mlžná komora:
-	- abstrakt: Existuje mnoho způsobů detekce nabitých částic. Málo z nich však vypadá na pohled tak pěkně jako mlžná komora. Další její výhodou je ta, že si ji může téměř každý postavit u sebe doma. A tento úkol čeká právě na vás!
+	- abstrakt: Existuje mnoho způsobů detekce nabitých částic. Málo z nich však vypadá na pohled tak pěkně jako mlžná komora. Další její výhodou je, že si ji může téměř každý postavit u sebe doma. A tento úkol čeká právě na vás!
 	- úkoly: Seznamte se s principem funkce difuzní mlžné komory na bázi izopropylalkoholu. K tomu vám poslouží např. doporučené zdroje, nebojte se však hledat i jinde na internetu. Jak taková komora funguje? Jak je možné si ji sestavit? Popřemýšlejte nad tím a dejte se do díla. Po sestavení zjistíte, zda vaše komora funguje. Pokud nefungujte, pokuste se přijít na to, proč. Případně můžete sestavit lepší model (ale není to nutné). Pokud skutečně vidíte dráhy nabitých částic, pokuste se je zachytit foťákem. Na tento bod úkolu myslete při sestavování komory.
 	- zdroje:
 		* "http://kmlinux.fjfi.cvut.cz/~loffevik/komora/ .{target:_blank}":[http://kmlinux.fjfi.cvut.cz/~loffevik/komora/]
 		* "https://www.youtube.com/watch?v=pewTySxfTQk .{target:_blank}":[https://www.youtube.com/watch?v=pewTySxfTQk]
 
 11) Lžička v hrnku čaje:
-	- abstrakt: Každého jistě někdy potkalo, že potřeboval rychle vypít čaj, který byl moc horký. Cílem tohoto úkolu bude (v rámci možností) teoreticky předpovědět anebo alespoň diskutovat rozdíl v rychlosti chladnutí horkého nápoje (vody) v hrnku v závislosti na parametru: {v hrnku je lžička/ v hrnku není lžička}. Zisk experimentálních dat zaměříme jak na modelové situace (termohrnek, lžička=plech z různých materiálů, hrnek zcela plný/poloprázdný…) a poté zkusíme naše měření porovnat s měřením na reálném hrnku (skleněný, keramický..) a diskutovat rozdíly a možné vlivy měření.
+	- abstrakt: Každého jistě někdy potkalo, že potřeboval rychle vypít čaj, který byl moc horký. Cílem tohoto úkolu bude (v rámci možností) teoreticky předpovědět anebo alespoň diskutovat rozdíl v rychlosti chladnutí horkého nápoje (vody) v hrnku v závislosti na parametru: {v hrnku je lžička/ v hrnku není lžička}. Zisk experimentálních dat zaměříme nejdříve na modelové situace (termohrnek, lžička=plech z různých materiálů, hrnek zcela plný/poloprázdný…) a poté zkusíme naše měření porovnat s měřením na reálném hrnku (skleněný, keramický..) a diskutovat rozdíly a možné vlivy měření.
 
 
 
