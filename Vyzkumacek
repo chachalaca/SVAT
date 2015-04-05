@@ -54,7 +54,7 @@ Anotace témat
 	- Pro několik různých radionuklidů naměříme dávkový příkon v různých vzdálenostech za pomoci dvou různých detektorů. Z těchto hodnot následně vypočítáme gamma konstantu a porovnáme s tabulkovými gamma konstantami. Téma se bude zabývat statistikou, kvalitou přístrojů apod. Přístroje jsou používány v nukleární medicíně pro kontrolu pacientů po aplikaci jodu v radioterapii. V případě dostatku času a zájmu je možné pokračování ve výpočtu dávky aplikované pacientovi.
 
 7) Spektrometrie:
-	- Spektrometr je hojně používaný přístroj v nukleární medicíně na měření in-vivo vzorků (krev, moč, stolice). Pro správnou funkčnost přístroje se provádějí kontroly kvality, tzv. QC testy. V těchto testech bychom měřili FWHM, prováděli energetickou kalibraci, linearitu na odezvu atd. Cílem tohoto výzkumáčku by bylo napsání programu (Excel, Matlab, atd.) pro výpočet těchto hodnot z naměřených dat a následné porovnání s vestavěným programem spektrometru. Program by nadále mohl být využíván v praxi.
+	- Spektrometr je hojně používaný přístroj v nukleární medicíně na měření in-vitro vzorků (krev, moč, stolice). Pro správnou funkčnost přístroje se provádějí kontroly kvality, tzv. QC testy. V těchto testech bychom měřili FWHM (prostorovou rozlišovací schopnost), prováděli energetickou kalibraci, linearitu na odezvu atd. Cílem tohoto výzkumáčku by bylo napsání programu (Excel, Matlab, atd.) pro výpočet těchto hodnot z naměřených dat a následné porovnání s vestavěným programem spektrometru. Program by nadále mohl být využíván v praxi.
 
 8) Konstrukce čísel a Hilbertův hotel:
 	- abstrakt: Cesta k číslům, jak je chápeme dnes, nebyla vůbec jednoduchá. Ještě těžší bylo uchopit pojmy nekonečna a s ním související vlastnosti množin.
