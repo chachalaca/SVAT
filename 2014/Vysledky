@@ -1,0 +1,97 @@
+Výsledky
+========
+
+Konečné celkové výsledky
+----------------
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s_1 | s_2 |  s_3 |  s_4 | vyzkumacek | .{text-align: center; font-weight: bold} celková suma
+|--------------
+|* Ondřej Poláček 		| 3 | 38,98 | 34,21 | 36,80 |       |    | 109,99
+|* Vojtěch Laitl 			| 0 | 21,61 | 20,58 | 16,97 | 19,17 | 25 | 103,32
+|* Šimon Jelínek 			| 3 | 28,99 | 35,50 | 13,49 |  9,14 |    |  87,13
+|* Martin Scheubrein 	| 3 | 29,93 | 28,69 | 13,68 |  5,30 |    |  72,30
+|* Jiří Růžička 			| 3 | 24,59 | 21,19 |       |  6,31 |    |  52,10
+|* Jiří Jičínský 			| 2 | 18,61 | 18,21 |       |       |    |  36,82
+|* Petr Doležal 			| 4 | 29,54 |       |  6,00 |       |    |  35,54
+|* Jakub Salavec 			| 3 |  5,00 | 19,36 |       |       |    |  24,36
+|* Jan Petr 					| 2 |  6,13 | 13,77 |       |       |    |  19,91
+|* Marie Zlínská 			| 3 | 17,73 |       |       |  5,00 |    |  22,73
+|* Dominika Jochcová 	| 4 |  5,90 | 11,45 |  3,70 |       |    |  17,35
+|* Kateřina Smítalová | 4 | 13,00 |       |       |       |    |  13,00
+|* Dominik Krasula 		| 2 |       |  8,21 |       |       |    |   8,21
+|* Ondřej Daneš 			| 2 |  5,64 |       |       |       |    |   5,64
+|* Ondřej Brunner 		| 2 |  2,95 |       |       |       |    |   2,95
+
+
+Výsledky 4. série
+----------------
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
+|--------------
+|* Vojtěch Laitl			| 0 | 4 | 3 | 4,5	| 3 	|  -	| 4,7	| 19,97
+|* Šimon Jelínek			| 3 | 4 | - | 5		| 3,5 |  - 	|  -	|  9,14
+|* Jiří Růžička				| 3 | 3 | 1 | 5		|  - 	|  -	|  - 	|  6,31
+|* Martin Scheubrein	| 3 | 4 | - | -		|  -  |  - 	| 5,1 |  5,30
+|* Marie Zlínská  		| 3 | 2 | - | 5		|  - 	|  -	|  -  |  5,00
+
+
+Vysvětlivky:
+ - r. – ročník řešitele (ekvivalent střední školy či čtyřletého gymnázia, 0 znamená jakýkoliv nižší ročník),
+ - s. – počet řešených sérií,
+ - s_i - body za jednotlivé série
+ - b_i – body za jednotlivé úlohy (pomlčka znamená neřešil),
+ - vážená suma – součet bodů za jednotlivé úlohy zvýhodňující mladší a méně zkušené řešitele.
+ 
+ 
+/---html
+<!--
+
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
+|--------------
+|* Ondřej Poláček			| 3 | 3 | 5 | 4,5 | 10  	| 10 		| 6,0<sup>(9,0)</sup> | 36,80
+|* Vojtěch Laitl			| 0 | 3 | 1 |  0 	| 3,5 	|  2		| 4,0 | 16,97
+|* Martin Scheubrein	| 3 | 3 | 5 |  -	|  -  	|  2  	| 6,0<sup>(9,0)</sup> | 13,68
+|* Šimon Jelínek			| 3 | 3 | 5 | 4,5	| 3,0 	|  - 		| -   | 13,49
+|* Petr Doležal				| 4 | 2 | - |  -  |  -  	|  -  	| 6,0<sup>(7,0)</sup>	| 6,00
+|* Dominika Jochcová	| 4 | 3 | - | 2,5 | 1,0		|  -		| - 	| 3,70
+
+
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
+|--------------
+|* Ondřej Poláček			| 3 | 2 | 4 | 3,5 | 8,3 	| 10 		| 6,0<sup>(7,0)</sup> | 34,21
+|* Šimon Jelínek			| 3 | 2 | 5 | 5,0	| 10,5 	| 9,0		| 4,0 | 35,50
+|* Martin Scheubrein	| 3 | 2 | 5 | 5,0	| 7,3 	| 9,5 	| - 	| 28,69
+|* Jiří Růžička				| 3 | 2 | 5 | 0,5 | 3,3 	| 10,5 	| - 	| 21,19
+|* Vojtěch Laitl			| 0 | 2 | 1 | 1,0	| 1,5 	| 7,0		| 2,0 | 20,58
+|* Jiří Jičínský			| 2 | 2 | 2 | - 	| - 		| 10,5 	| 3,1 | 18,21
+|* Jakub Salavec			| 3 | 2 | 5 | - 	| 5,0		| 7,0		| - 	| 19,36
+|* Jan Petr						| 2 | 2 | 5 | - 	| - 		| 5,0		| 1,0 | 13,77
+|* Dominika Jochcová	| 4 | 2 | - | 1,5 | 7,0		| 2,0		| - 	| 11,45
+|* Dominik Krasula		| 2 | 1 | - | - 	| - 		| 6,0		| - 	|  8,21
+
+
+
+|-------------- 
+| .{text-align: left} Jméno| r. | s. | b_1 | b_2 |  b_3 |  b_4 | b__T__ | .{text-align: center; font-weight: bold} vážená suma
+|--------------
+|* Ondřej Poláček   	|  3 |  1 | 5,0 | 5,0 | 11,0 | 11,0 | 6,0<sup>(8,8)</sup> | 38,98
+|* Martin Scheubrein 	|  3 |  1 | 5,0 |  -  | 12,0 |  7,0 | 3,9 | 29,93
+|* Petr Doležal				|  4 |  1 | 4,5 | 5,0 | 10,5 |  2,5 | 6,0<sup>(6,8)</sup>  | 29,54
+|* Šimon Jelínek  		|  3 |  1 | 2,0 |  -  | 12,0 |  7,0 | 6,0 | 28,99
+|* Jiří Růžička  			|  3 |  1 | 0,5 | 5,0 | 11,5 |  5,5 |  -  | 24,59
+|* Vojtěch Laitl 			|  0 |  1 | 1,0 |  -  |  5,0 |  3,5 | 3,4 | 21,61
+|* Jiří Jičínský  		|  2 |  1 | 3,0 |  -  | 11,5 |   -  | 1,8 | 18,61
+|* Marie Zlínská  		|  3 |  1 |  -  |  -  | 11,5 |  4,5 |  -  | 17,73
+|* Kateřina Smítalová |  4 |  1 | 2,5 | 0,5 |  9,0 |   -  |  -  | 13,00
+|* Jan Petr  					|  2 |  1 | 0,0 | 3,0 |  1,0 |   -  |  -  |  6,13
+|* Ondřej Daneš  			|  2 |  1 | 0,5 | 4,0 |   -  |   -  |  -  |  5,64
+|* Jakub Salavec  		|  3 |  1 | 5,0 |  -  |   -  |   -  |  -  |  5,00
+|* Ondřej Brunner  		|  2 |  1 |  -  | 2,0 |   -  |   -  |  -  |  2,95
+-->
+\---
