@@ -17,17 +17,19 @@ Seznam témat
 |-------------------------------------------------------------------------------------------------
 | ID | Název 															| Katedra | Tutor | E-mail									|	Řešitel
 |-------------------------------------------------------------------------------------------------
-|  1 | Lidský generátor náhodných čísel		| KM 			| Mája 	| fcelkamaja# gmail.com 	| Jan Petr
-|  2 | Vysokohorská přirážka 							| KM 			| Mája 	| fcelkamaja# gmail.com 	| Šimon Jelínek
+|  1 | Lidský generátor náhodných čísel		| KM 			| Mája 	| fcelkamaja# gmail.com 	| 
+|  2 | Vysokohorská přirážka 							| KM 			| Mája 	| fcelkamaja# gmail.com 	| 
 |  3 | Fraktály 													| KM 			| Dan		| gromadan# fjfi.cvut.cz 	| 
 |  4 | Grál 															| KM 			| Dan 	| gromadan# fjfi.cvut.cz 	| 
 |  5 | Počítačová tomografie 							| KM/KSI 	| Peter | svihrpet# fjfi.cvut.cz 	| 
-|  6 | Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární medicíně | KDAIZ | Terka | kracmter# fjfi.cvut.cz | 
+|  6 | Rozdíly dvou detektorů pro měření dávkového příkonu v nukleární medicíně | KDAIZ   | Terka | kracmter# fjfi.cvut.cz  | 
 |  7 | Spektrometrie 											| KDAIZ 	| Terka | kracmter# fjfi.cvut.cz 	| 
 |  8 | Konstrukce čísel a Hilbertův hotel | KM 			| Honza | vabekjan# fjfi.cvut.cz	| 
 |  9 | Teploměr 													| KF 			| Honza | vabekjan# fjfi.cvut.cz 	| 
-
-
+| 10 | Dozimetrie pacientů při léčbě rakoviny štítné žlázy | KDAIZ   | Terka | kracmter# fjfi.cvut.cz  | 
+| 11 | Dozimetrie dětských pacientů při neuroblastomu | KDAIZ   | Terka | kracmter# fjfi.cvut.cz  | 
+| 12 | Vyhodnocení evakuace žaludku       | KDAIZ   | Terka | kracmter# fjfi.cvut.cz  | 
+| 13 | Statistický program SPM						| KDAIZ   | Terka | kracmter# fjfi.cvut.cz  | 
 
 
 Anotace témat
@@ -69,6 +71,37 @@ Anotace témat
 	- zdroje:
 		* "http://cs.wikipedia.org/wiki/Teplomer .{target:_blank}":[http://cs.wikipedia.org/wiki/Teplomer]
 		* "http://cs.wikipedia.org/wiki/Teplota .{target:_blank}":[http://cs.wikipedia.org/wiki/Teplota]
+
+10) Dozimetrie pacientů při léčbě rakoviny štítné žlázy:
+	- abstrakt: Rakovinou štítné žlázy trpí čím dál tím více lidí. Jedno z mála pracovišť je i ve FN Motol, které jako největší pracoviště s terapií pomocí otevřeného zářiče 131I má povinnost zavést dozimetrii těchto pacientů. Co vlastně ta dozimetrie je? Jedná se o výpočet aplikované terapeutické aktivity pomocí dříve aplikované diagnostické aktivity. Tyto výpočty provádíme pomocí několika měření dávkového příkonu (výpočet celotělové aktivity, exkrece) a minimálně 6 měření na gama kameře, na které provádíme akumulační test štítné žlázy a přilehlých uzlin.
+	- úkoly: Úkolem studenta by byl výpočet a zpracování těchto reálných pacientských dat.
+
+11) Dozimetrie dětských pacientů při neuroblastomu:
+	- abstrakt: Terapii pomocí otevřeného zářiče 131I-MIBG slouží k léčbě nemocných s neuroendokrinními tumory nebo neuroblastomy. Tato studie je zaměřena pouze na dětské pacienty ve III. a IV. klinickém stádiu neuroblastomu. Jelikož se jedná o malé děti většinou ve věku do 10 let a zároveň je nutností účinná účinná, kvůli které je aplikovaná velmi vysoká aktivita, je nutné zavádět dozimetrii a ověřit, zda byl dodržen limit pro celotělové ozáření těchto pacientů.
+	- úkoly: Úkolem by bylo vypracování výpočetního sešitu, který by právě tuto celotělovou dávku vypočítal - rozdělení na 3 fáze vylučování radiojodu z těla. A následná aplikace na konkrétních pacientech.
+
+12) Vyhodnocení evakuace žaludku:
+	- abstrakt: Vyšetření slouží k posouzení rychlosti vyprazdňování žaludku a jeho motility. K tomuto vyšetření jsou indikování pacienti s diabetickou neuropatií, pro hodnocení stavů po operaci žaludku a s malabsorpčním syndromem. Pacientovi je aplikováno radiofarmakum 99mTc-DTPA o velmi nízké aktivitě (cca 40 MBq pro dospělého pacienta). Radiofarmakum se do pacienta aplikuje pomocí testačního pokrmu (mléčná rýže, rohlík, tekutiny). Snímky z gama kamery následně vyhodnocuje lékař pomocí vyznačených oblastí (tzv. ROI) nad oblastí žaludku v čase. Pomocí této křivky je možné stanovit hodnoty lag fáze, poločas evakuace s korekcí na rozpad 99mTc.
+	- úkoly: Úkolem by bylo vypracování hodnotícího kódu v Matlabu (pomocí GUI) a následná aplikace na reálného pacienta.
+	- zdroje:
+		* "ilustrativní obrázek":[@vyhodnocenievakuacezaludku].
+
+13) Statistický program SPM:
+	- abstrakt: SPM je statistický program, který pro své spouštění využívá prostředí Matlab. Hojně se využívá pro hodnocení snímků mozku po aplikaci radiofarmaka (DatScan aj.). Po vytvoření normálové databáze je možné hodnotit pacienty, kteří mají na svém mozku různé abnormality.
+	- úkoly: Úkolem by bylo vytvoření normálové databáze, aplikace SPM filtrů a následné aplikace na konkrétních pacientech. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
